@@ -4,6 +4,8 @@ The rainbow colours are : -
 pink 
 red 
 yellow 
+indigo
+violet
 orange 
 green 
 purple
