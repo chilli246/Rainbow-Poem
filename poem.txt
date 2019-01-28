@@ -5,6 +5,7 @@ pink
 red 
 yellow 
 indigo
+burnt
 violet
 orange 
 green 
